@@ -1,0 +1,7 @@
+{
+    "ipfs_hash": "IPFS CID hash",
+    "model_hash": "SHA-2 model hash",
+    "name": "Name of model",
+    "description": "Model description",
+    "parent": "Parent model (if exists)"
+}

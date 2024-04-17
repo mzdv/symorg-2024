@@ -1,2 +1,3 @@
 # symorg-2024
-Code for SYMORG 2024 conference
+This repository contains the code for the paper titled "Verifying AI model
+integrity with blockchain technology" by Miloš Živadinović and Dejan Simić.
